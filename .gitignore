@@ -1,0 +1,4 @@
+ILSVRC/*
+.ipynb_checkpoints/
+trained_models/*
+__pycache__/

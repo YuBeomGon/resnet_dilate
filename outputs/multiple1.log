@@ -1,0 +1,3 @@
+isNoise False
+traindir ILSVRC/Data/CLS-LOC/train
+valdir ILSVRC/Data/CLS-LOC/val
